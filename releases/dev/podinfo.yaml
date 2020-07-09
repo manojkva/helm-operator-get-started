@@ -16,7 +16,7 @@ spec:
   values:
     image:
       repository: manojkva/podinfo
-      tag: dev-hdtwcel9
+      tag: dev-asxouv7r 
     replicaCount: 1
     hpa:
       enabled: false
